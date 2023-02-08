@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mFasv
+ls -mFaSv
